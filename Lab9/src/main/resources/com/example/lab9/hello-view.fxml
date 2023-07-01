@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="607.0" prefWidth="605.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button fx:id="diontPushButton" layoutX="252.0" layoutY="291.0" mnemonicParsing="false" text="DO NOT PUSH" />
+      <TextField fx:id="buttonResponse" alignment="CENTER" layoutX="222.0" layoutY="226.0" promptText="Don't do it " text="Motherfucker" />
+   </children>
+</AnchorPane>
